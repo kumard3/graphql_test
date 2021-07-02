@@ -1,1 +1,1 @@
-# 🎓 Netflix Clone using DataStax and GraphQL
+#  Netflix Clone using DataStax and GraphQL
